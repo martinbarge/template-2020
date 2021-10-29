@@ -1,5 +1,5 @@
 ---
-title: home
+title: Page 2
 description: Another page
 ---
 
